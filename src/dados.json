@@ -1,86 +1,74 @@
 [
   {
-    "id": 1,
-    "titulo": "Para fazer",
-    "cards": [
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      }
-    ]
+    "idColuna": 1,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
   },
   {
-    "id": 2,
-    "titulo": "Fazendo",
-    "cards": [
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      }
-    ]
+    "idColuna": 1,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
   },
   {
-    "id": 3,
-    "titulo": "Arrumando",
-    "cards": [
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      }
-    ]
+    "idColuna": 1,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
   },
   {
-    "id": 4,
-    "titulo": "feitor",
-    "cards": [
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      },
-      {
-        "titulo": "Titulo",
-        "descricao": "Uma descricao bem longa para um card de kanban",
-        "info": "Rodapé do card, com uma informação extra"
-      }
-    ]
+    "idColuna": 2,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 2,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 2,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 3,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 3,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 3,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 4,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 4,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
+  },
+  {
+    "idColuna": 4,
+    "titulo": "Titulo",
+    "descricao": "Uma descricao bem longa para um card de kanban",
+    "info": "Rodapé do card, com uma informação extra"
   }
 ]

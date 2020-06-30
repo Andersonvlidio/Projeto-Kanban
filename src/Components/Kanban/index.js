@@ -1,7 +1,7 @@
 import React from "react";
 
-const Kanban = ({ children }) => {
-  return <div className="kanban d-flex">{children}</div>;
+const Kanban = ({ children, className }) => {
+  return <div className={`row ${className}`}>{children}</div>;
 };
 
 export default Kanban;

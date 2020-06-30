@@ -1,7 +1,7 @@
 import React from "react";
 
 const Container = ({ children }) => {
-  return <div className="container-fluid">{children}</div>;
+  return <div className="container-fluid p-4">{children}</div>;
 };
 
 export default Container;

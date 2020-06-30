@@ -1,7 +1,12 @@
 import React, { useState } from "react";
 import { Modal, Button } from "react-bootstrap";
 
-const ModalNewCard = ({ show, onClickClose, onClickCriar }) => {
+const ModalNewCard = ({
+  show,
+  onClickClose,
+  onClickCreateCard,
+  id: idColuna,
+}) => {
   const [titulo, setTitulo] = useState("");
   const [descricao, setDescricao] = useState("");
   const [info, setInfo] = useState("");
@@ -60,7 +65,18 @@ const ModalNewCard = ({ show, onClickClose, onClickCriar }) => {
         </Button>
         <Button
           variant="primary"
-          onClick={() => onClickCriar({ titulo, descricao, info })}
+          onClick={() => {
+            onClickCreateCard({
+              titulo,
+              descricao,
+              info,
+              idColuna,
+              cardId: Date.now(),
+            });
+            setTitulo("");
+            setDescricao("");
+            setInfo("");
+          }}
         >
           Criar
         </Button>
